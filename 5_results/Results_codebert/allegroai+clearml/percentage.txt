@@ -1,0 +1,15 @@
+target_repo_num:	4
+target_bug_num:	17
+project_bug_num:	4
+
+
+mrr_vsm/target_bug_num	0.4600738846263143
+mrr_rvsm/target_bug_num	0.5725987763526463
+mrr_bm/target_bug_num	0.6085022244191793
+mrr_bert/target_bug_num	0.0
+mrr_codebert/target_bug_num	0.19668556916299473
+map_vsm/target_bug_num	0.38830588204540983
+map_rvsm/target_bug_num	0.4771993206262822
+map_bm/target_bug_num	0.5274751324462903
+map_bert/target_bug_num	0.0
+map_codebert/target_bug_num	0.1543606128187727
