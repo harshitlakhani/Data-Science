@@ -39,8 +39,18 @@ Install these packages using command prompt or using Google Colab/Calvert:
 - pip install rank-bm25
 
 # Licensing Information
+- The replication package has been used to verify efficiency of existing methodoligies
+- IRBL for DLSW : <https://github.com/RosePasta/IRBL_for_DLSW>
 
 # Steps to run
+- Clone replication package
+- Follow steps mentioned in the readme file to download repositories
+- Make necessary changes to bring replication package in executable state
+- Generate dataset and efficiency report of replication package
+- Subsample dataset 
+- For labelling extensic and intrensic bugs, run extrinsic_intrinsic.ipynb file in 'Extrensic-Intrensic bugs' folder to generate report with summary and descripition in csv format
+- run codebert_evaluation.ipynb and bert_evaluation.ipynb file present in 'BERT and CodeBERT' folder to generate evaluation result
+- Plotly <https://chart-studio.plotly.com/feed/> has been used to generate visualizations
 
 # Contributor
 - Sigma Jahan (sigma.jahan@dal.ca)
